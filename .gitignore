@@ -1,0 +1,23 @@
+# STM32 Project Gitignore
+
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.out
+
+# Compiled Binary files
+*.bin
+*.elf
+
+# Executables
+*.exe
+*.elf
+
+# Linker script generated files
+*.ld
+
+# Debug files
+*.dSYM/
+
+# SVD files
+*.svd
