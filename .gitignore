@@ -21,3 +21,8 @@
 
 # SVD files
 *.svd
+
+*.cproject
+*.mxproject
+*.language.settings.xml
+
