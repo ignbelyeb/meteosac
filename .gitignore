@@ -25,4 +25,4 @@
 *.cproject
 *.mxproject
 *.language.settings.xml
-
+*.project
